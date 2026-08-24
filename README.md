@@ -2,6 +2,7 @@
 
 Standardized library for control of displays. This is an abstract display library that makes it easy to get new displays up and running quickly with a full set of drawing and printing functions with multi-window support. This library is relatively flexible allowing for the user to use a completely custom color definition and override default implementations for printing. All that is needed to make a display work is to provide the interface to draw one pixel to the display, and instruct the library how to handle your custom color type. Increased efficiency can be obtained by overriding additional drawing functions. Original author: SparkFun Electronics <techsupport@sparkfun.com>. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 2.0.1. Upstream: <https://github.com/sparkfun/SparkFun_HyperDisplay>.
 
+**Source last updated:** 2020-01-30  
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
 **Output:** Arduino library
