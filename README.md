@@ -20,6 +20,10 @@ Standardized library for control of displays. This is an abstract display librar
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/SparkFun_HyperDisplay`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** SparkFun Electronics <techsupport@sparkfun.com>
